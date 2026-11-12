@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CustomPC\\Desktop\\pr8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|c:\\users\\custompc\\desktop\\pr8\\pr8\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|solutionrelative:pr8\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|c:\\users\\custompc\\desktop\\pr8\\pr8\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|solutionrelative:pr8\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|c:\\users\\custompc\\desktop\\pr8\\pr8\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|solutionrelative:pr8\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|c:\\users\\custompc\\desktop\\pr8\\pr8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|solutionrelative:pr8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|c:\\users\\custompc\\desktop\\pr8\\pr8\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|solutionrelative:pr8\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|c:\\users\\custompc\\desktop\\pr8\\pr8\\models\\pr8dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBDDE0-B24A-46F3-92EC-6F09A7D1C6E4}|pr8\\pr8.csproj|solutionrelative:pr8\\models\\pr8dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "pr8\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "pr8\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T09:05:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "pr8\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "pr8\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T09:05:41.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pr8DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Models\\Pr8DbContext.cs",
+              "RelativeDocumentMoniker": "pr8\\Models\\Pr8DbContext.cs",
+              "ToolTip": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Models\\Pr8DbContext.cs",
+              "RelativeToolTip": "pr8\\Models\\Pr8DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T09:05:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "pr8\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Models\\Task.cs",
+              "RelativeToolTip": "pr8\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T09:05:29.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Models\\User.cs",
+              "RelativeDocumentMoniker": "pr8\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Models\\User.cs",
+              "RelativeToolTip": "pr8\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T09:05:28.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "pr8\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\CustomPC\\Desktop\\pr8\\pr8\\Services\\JwtService.cs",
+              "RelativeToolTip": "pr8\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T09:01:40.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
